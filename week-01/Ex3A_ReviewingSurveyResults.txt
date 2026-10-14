@@ -1,0 +1,39 @@
+Survey question 1: What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+	1	I can conclude that the majority of the class checks their laptops and internet connection to make sure they work, and then they join the Zoom meeting.
+	2	Because this is an open-ended question, a simple chart may not summarize the answers well. It could be improved by grouping responses into themes
+	3	The question does not appear to have an “Other” option
+	4	It's hard to find trends on open-ended questions
+	5	I would ask: “What do you usually do before class to get ready?” and provide a “Select all that apply”
+Survey question 2: Do you have a second monitor connected to your computer?
+	1	Over 50% of the class doesn't have a second monitor.
+	2	A bar chart is helpful for comparing Yes, No, and Maybe. It would be clearer if the answer choices were standardized and the chart showed both counts and percentages.
+	3	The actual answers are available by reviewing individual responses in the survey results or response view
+	4	Not a written response
+	5	I would ask: “Do you currently have a second monitor available to use for class?”
+Survey question 3: Do you have an external keyboard and mouse?
+	1	Over 50% of the class doesn't have an external keyboard and mouse.
+	2	A bar chart is helpful for comparing Yes, No, and Maybe. It would be clearer if the answer choices were standardized and the chart showed both counts and percentages.
+	3	The actual answers are available by reviewing individual responses in the survey results or response view
+	4	Not a written response
+	5	I would separate it into two questions: “Do you have an external keyboard?” and “Do you have an external mouse?” Each question would have Yes, No, and Not sure options.
+Survey question 4: How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else?
+	1	Only 4% who's gonna take notes using pen and paper.
+	2	A bar chart is useful for comparing methods, but it may be misleading if people can select multiple methods or type their own answers.
+	3	The actual answers are available by reviewing individual responses in the survey results or response view
+	4	Not a written response
+	5	I would ask: “Which methods do you plan to use to take notes? Select all that apply.” Options could be computer document, note-taking app, pen and paper, tablet/iPad, and Other (please specify).
+Survey question 5: What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+	1	Everyone has a different question.
+	2	Because this is an open-ended question, a simple chart may not summarize the answers well. It could be improved by grouping responses into themes
+	3	The question does not appear to have an “Other” option
+	4	It's hard to find trends on open-ended questions
+	5	I would include a “I don't have a question right now” option.
+
+
+
+
+	6	I was surprised that more students do not have a second monitor and that pen and paper is a popular way to take notes. I also noticed that students have different questions about the course, including programming languages, career opportunities, hands-on practice, and how AI will be used.
+	7	I would try to prepare for class by opening my course materials, checking my internet connection, and reviewing my notes a few minutes before class starts. I am also curious about which programming languages and tools we will learn and how the skills from this course will help me prepare for a data analyst career.
+	8	As an instructor, I would learn that students have different levels of preparation, equipment, and questions about the course. I would make sure instructions are clear, provide hands-on activities, and explain how the skills we learn apply to real-world data analyst jobs.
+	9	I think making the survey anonymous was helpful because students may feel more comfortable sharing their questions, concerns, and opinions honestly without worrying about being judged.
+
